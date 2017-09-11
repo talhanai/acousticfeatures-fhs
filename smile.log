@@ -1,0 +1,13 @@
+[ 11.09.2017 - 12:19:38 ]
+    (MSG) [2] in SMILExtract : openSMILE starting!
+[ 11.09.2017 - 12:19:38 ]
+    (MSG) [2] in SMILExtract : config file is: config/myIS13_ComParE_8K.conf
+[ 11.09.2017 - 12:19:38 ]
+    (MSG) [2] in cComponentManager : successfully registered 95 component types.
+[ 11.09.2017 - 12:19:38 ]
+    (MSG) [2] in cComponentManager : successfully finished createInstances
+                                 (35 component instances were finalised, 1 data memories were finalised)
+[ 11.09.2017 - 12:19:38 ]
+    (MSG) [2] in cComponentManager : starting single thread processing loop
+[ 11.09.2017 - 12:19:38 ]
+    (MSG) [2] in cComponentManager : Processing finished! System ran for 371 ticks.
