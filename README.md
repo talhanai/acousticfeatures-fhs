@@ -11,4 +11,6 @@ This results in **output.lld.csv** (low-level-descriptors, ie. frame-level featu
 
 **sample_8K.wav** is the classic TIMIT phrase: _"She had your dark suit in greasy wash water all year"_
 
+Disclaimer: The user accepts the code / configuration / repo AS IS, WITH ALL FAULTS.
+
 _Last Updated 11th September 2017_
